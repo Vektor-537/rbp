@@ -32,8 +32,5 @@ public class AllHitbox : MonoBehaviour
         return buf;
 
     }
-    void fire(Vector3 pos, Quaternion vel) {
-    
-    
-    }
+   
 }
