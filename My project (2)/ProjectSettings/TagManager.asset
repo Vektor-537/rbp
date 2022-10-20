@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bg
+  - turel
+  - planer
+  - sg
+  - snar
+  - frac
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - snar
+  - seg
+  - snarEnemy
+  - segEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 3973440721
+    locked: 0
+  - name: planerbg
+    uniqueID: 3163634989
+    locked: 0
+  - name: sg
+    uniqueID: 3658600729
+    locked: 0
+  - name: tur
+    uniqueID: 509428073
+    locked: 0
+  - name: snar
+    uniqueID: 680753095
+    locked: 0
+  - name: button
+    uniqueID: 2839699891
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
